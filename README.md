@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sajaysagar7" target="blank"><img src="https://img.shields.io/twitter/follow/sajaysagar7?logo=twitter&style=for-the-badge" alt="sajaysagar7" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce App**
+- 🔭 Sometimes  **Free Lancer** Sometimes **Corporate Job**
 
 - 🌱 I’m currently learning **Frameworks,statemanagement and animations which make apps butterly smooth.**
 
