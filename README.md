@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Flutter, Dart,**
 
-- 📫 How to reach me **sjaysagar7@gmail.com**
+- 📫 How to reach me **sajaysagar7@gmail.com**
 
 - ⚡ Fun fact **Software developers spend more time learning as compared to others**
 
