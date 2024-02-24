@@ -9,9 +9,7 @@
 
 - 🔭 Sometimes  **Free Lancer** Sometimes **Corporate Job**
 
-- 🌱 I’m currently learning **Frameworks,statemanagement and animations which make apps butterly smooth.**
-
-- 🤝 I’m looking for help with **Node JS backend servies**
+- 🌱 I’m currently learning **FLUTTER,REACT JS,NODE JS,MONGO DB,KAFKA,REDDIS,QUEUE**
 
 - 💬 Ask me about **Flutter, Dart,**
 
