@@ -9,7 +9,7 @@
 
 - 🔭 Sometimes  **Free Lancer** Sometimes **Corporate Employe**
 
-- 🌱 I’m currently learning **FLUTTER,REACT JS,NODE JS,MONGO DB,KAFKA,REDDIS,QUEUE**
+- 🌱 I’m currently learning **FLUTTER,REACT JS,AND PYTHON🐍**
 
 - 💬 Ask me about **Flutter, Dart,**
 
